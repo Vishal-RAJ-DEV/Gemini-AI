@@ -353,9 +353,9 @@ body.bot-responding .promt-form #stop-promt-btn {
 
     .suggestion-item span,
     .icon {
-        width: 35px;
-        height: 35px;
-        margin-top: 10px;
+        width: 30px;
+        height: 30px;
+        margin-top: 5px;
     }
 
     .promt-wrapper .promt-form {
